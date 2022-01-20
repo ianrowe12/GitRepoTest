@@ -34,6 +34,10 @@
                                 <rect key="frame" x="35" y="379" width="394" height="354"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="coqw" translatesAutoresizingMaskIntoConstraints="NO" id="kgg-cz-gBK">
+                                <rect key="frame" x="-46" y="216" width="305" height="166"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -46,6 +50,7 @@
     </scenes>
     <resources>
         <image name="Milk-Splash-Free-PNG-Image" width="650" height="502"/>
+        <image name="coqw" width="1140" height="889"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
